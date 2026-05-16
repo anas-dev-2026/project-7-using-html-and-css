@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(31, 29, 29);
+}
+a,button{
+    color: white;
+    background-color: rgb(132, 9, 247);
+}
+div,h3,h4{
+    color: white;
+}
+label,input{
+    color: white;
+}
+fieldset,legend{
+    color: black;
+}
+form{
+    color: blueviolet;
+}
